@@ -18,9 +18,6 @@
     "matches": ["<all_urls>"],
     "js": [
       "my-content-script.js"
-    ],
-    "css": [
-      "assets/content.css"
     ]
   }],
 
